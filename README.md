@@ -5,7 +5,7 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 
 ## Live Portfolio
 
-https://yuvraj-puce.vercel.app/
+https://adityaroy-wheat.vercel.app/
 Keep it near the top.
 <img width="1920" height="1080" alt="<img width="1897" height="836" alt="Screenshot 2026-10-25 180544" src="https://github.com/user-attachments/assets/d3c3ed76-ab73-431f-8d51-69d948345f99" />
 " src="https://github.com/user-attachments/assets/633a2f70-85e9-4964-aa92-744e5bc5396a" />
